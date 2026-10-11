@@ -1,6 +1,6 @@
 <Room>
   <Saves />
-  <index>08</index>
+  <index>13</index>
   <area>00</area>
   <x>00</x>
   <y>00</y>
@@ -18,6 +18,17 @@
       <tiley>5</tiley>
       <screenx>02</screenx>
       <screeny>05</screeny>
+      <distance>8000</distance>
+      <doorcode>0000</doorcode>
+    </Door>
+    <Door>
+      <toroom area="00" index="13" />
+      <bitflag>00</bitflag>
+      <direction>00</direction>
+      <tilex>0</tilex>
+      <tiley>0</tiley>
+      <screenx>00</screenx>
+      <screeny>00</screeny>
       <distance>8000</distance>
       <doorcode>0000</doorcode>
     </Door>
